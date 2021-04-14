@@ -1,0 +1,4 @@
+# Created at 2021-04-14T18:42:18.268
+Boot Manifest-JAR contains absolute paths in classpath 'D:\Simplilearn Phase 5\WebDrivers\TestNGProject\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+
